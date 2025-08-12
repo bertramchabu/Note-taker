@@ -1,1 +1,3 @@
-# Note-taker
+# note_taker
+
+A new Flutter project.
